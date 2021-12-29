@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Blog application hosted on Vercel built with React and Nextjs
